@@ -1,2 +1,2 @@
 # YAL
-Yet Another Async Library
+Yet another Async Library
